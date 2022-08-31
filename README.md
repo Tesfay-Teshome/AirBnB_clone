@@ -93,7 +93,7 @@ $ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
-========================================
+
 EOF  help  quit
 
 (hbnb) 
@@ -107,7 +107,7 @@ $ echo "help" | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
-========================================
+
 EOF  help  quit
 (hbnb) 
 $
@@ -118,11 +118,11 @@ $ cat test_help | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
-========================================
+
 EOF  help  quit
 (hbnb) 
 $
 
-AUTHORS
+### AUTHORS
 - TESFAY TESHOME :  GitHub <https://github.com/Tesfay-Teshome/>
 - OKOHA GRACE : GitHub <https://github.com/Michaelchinex>
